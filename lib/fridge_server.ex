@@ -33,4 +33,3 @@ defmodule FridgeServer do
     end 
   end 
 end 
-
